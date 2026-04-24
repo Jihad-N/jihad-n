@@ -47,13 +47,13 @@ class Developer {
 ### Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,sql,c#,c++,java" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,adobephotoshop,ispaintx" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,ps" />
 </p>
 
 ---
