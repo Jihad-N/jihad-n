@@ -53,7 +53,7 @@ class Developer {
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,adobephotoshop,ispaintx" />
 </p>
 
 ---
@@ -70,13 +70,13 @@ class Developer {
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jihad-n&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
-
+-->
 ---
 
 ## 📌 Featured Projects
