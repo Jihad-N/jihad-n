@@ -47,7 +47,7 @@ class Developer {
 ### Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,sql,java,cs,cpp" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,firebase,mysql,java,cs,cpp" />
 </p>
 
 ### Tools & Platforms
