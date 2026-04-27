@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ```dart
 class Developer {
   final String name = "Jihad";
-  final String role = "Flutter Developer";
+  final String role = "Software Engineering Student" + "Flutter Developer";
   final List<String> skills = [
     "Flutter",
     "Dart",
